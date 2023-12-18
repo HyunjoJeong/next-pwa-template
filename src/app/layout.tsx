@@ -6,9 +6,7 @@ export const metadata: Metadata = {
   title: 'Next PWA APP',
   description: 'PWA APP with Nextjs(v14)',
   manifest: '/manifest.json',
-  icons: {
-    apple: '/icon-192x192.png',
-  },
+  icons: { apple: '/icon-192x192.png' },
 };
 
 export const viewport: Viewport = {
