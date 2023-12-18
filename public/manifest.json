@@ -1,12 +1,17 @@
 {
-    "theme_color": "#fff",
-    "background_color": "#fff",
-    "display": "standalone",
-    "scope": "/",
-    "start_url": "/",
     "name": "MyNextPwaTemplate",
     "short_name": "MyNextPwa",
     "description": "next-pwa template",
+    "lang": "ko",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "dir": "ltr",
+    "prefer_related_applications": false,
+    "theme_color": "#fff",
+    "background_color": "#fff",
+    "categories": [ "lifestyle", "personalization", "utilities" ],
     "icons": [
         {
             "src": "/icon-192x192.png",
