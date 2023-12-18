@@ -6,7 +6,6 @@ const nextConfig = {
     dest: 'public',
     register: true,
     skipWaiting: true,
-    swSrc: 'serice-worker.js',
   }),
 };
 
